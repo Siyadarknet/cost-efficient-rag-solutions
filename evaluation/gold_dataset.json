@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Q1",
+    "question": "What is the main purpose of the document?",
+    "gold_answer": "The document explains the purpose and objectives of the document.",
+    "relevant_chunks": ["page 1"]
+  },
+  {
+    "id": "Q2",
+    "question": "What problem does this document solve?",
+    "gold_answer": "The document explains the challenges and problems it aims to address.",
+    "relevant_chunks": ["page 1"]
+  },
+  {
+    "id": "Q3",
+    "question": "What are the key objectives?",
+    "gold_answer": "The document describes the major objectives and expected outcomes.",
+    "relevant_chunks": ["page 1"]
+  },
+  {
+    "id": "Q4",
+    "question": "Who are the intended users of this document?",
+    "gold_answer": "The document identifies the target users and stakeholders.",
+    "relevant_chunks": ["page 2"]
+  },
+  {
+    "id": "Q5",
+    "question": "What recommendations are provided?",
+    "gold_answer": "The document lists recommended actions and best practices.",
+    "relevant_chunks": ["page 2"]
+  },
+  {
+    "id": "Q6",
+    "question": "What are the major risks mentioned?",
+    "gold_answer": "The document discusses important risks and threats.",
+    "relevant_chunks": ["page 3"]
+  },
+  {
+    "id": "Q7",
+    "question": "What security measures are discussed?",
+    "gold_answer": "The document explains security controls and protective measures.",
+    "relevant_chunks": ["page 4"]
+  },
+  {
+    "id": "Q8",
+    "question": "What technologies are mentioned?",
+    "gold_answer": "The document discusses relevant technologies and systems.",
+    "relevant_chunks": ["page 4"]
+  },
+  {
+    "id": "Q9",
+    "question": "What policies are described?",
+    "gold_answer": "The document explains important policies and standards.",
+    "relevant_chunks": ["page 5"]
+  },
+  {
+    "id": "Q10",
+    "question": "What responsibilities are assigned?",
+    "gold_answer": "The document defines the roles and responsibilities of stakeholders.",
+    "relevant_chunks": ["page 5"]
+  },
+  {
+    "id": "Q11",
+    "question": "What challenges are identified?",
+    "gold_answer": "The document identifies operational and technical challenges.",
+    "relevant_chunks": ["page 6"]
+  },
+  {
+    "id": "Q12",
+    "question": "What solutions are proposed?",
+    "gold_answer": "The document proposes solutions to address identified challenges.",
+    "relevant_chunks": ["page 6"]
+  },
+  {
+    "id": "Q13",
+    "question": "What best practices are suggested?",
+    "gold_answer": "The document recommends industry best practices.",
+    "relevant_chunks": ["page 7"]
+  },
+  {
+    "id": "Q14",
+    "question": "What benefits are discussed?",
+    "gold_answer": "The document explains expected benefits and improvements.",
+    "relevant_chunks": ["page 7"]
+  },
+  {
+    "id": "Q15",
+    "question": "What is the conclusion of the document?",
+    "gold_answer": "The conclusion summarizes the document and future recommendations.",
+    "relevant_chunks": ["last page"]
+  }
+]

@@ -1,0 +1,103 @@
+
+[
+    {
+        "id": "Q1",
+        "question": "What is the main purpose of this document?",
+        "relevant_keywords": ["purpose", "objective", "aim"]
+    },
+    {
+        "id": "Q2",
+        "question": "What problem does this document address?",
+        "relevant_keywords": ["problem", "challenge", "issue"]
+    },
+    {
+        "id": "Q3",
+        "question": "What is the primary objective discussed?",
+        "relevant_keywords": ["objective", "goal"]
+    },
+    {
+        "id": "Q4",
+        "question": "Who is the intended audience of this document?",
+        "relevant_keywords": ["organization", "users", "citizens", "stakeholders"]
+    },
+    {
+        "id": "Q5",
+        "question": "What are the key recommendations?",
+        "relevant_keywords": ["recommendation", "suggest", "recommend"]
+    },
+    {
+        "id": "Q6",
+        "question": "What are the major risks mentioned?",
+        "relevant_keywords": ["risk", "threat", "vulnerability"]
+    },
+    {
+        "id": "Q7",
+        "question": "What security measures are discussed?",
+        "relevant_keywords": ["security", "protection", "defense"]
+    },
+    {
+        "id": "Q8",
+        "question": "What actions should be taken in case of an incident?",
+        "relevant_keywords": ["response", "incident", "action"]
+    },
+    {
+        "id": "Q9",
+        "question": "What are the important policies mentioned?",
+        "relevant_keywords": ["policy", "guideline"]
+    },
+    {
+        "id": "Q10",
+        "question": "What technologies are discussed in the document?",
+        "relevant_keywords": ["technology", "system", "platform"]
+    },
+    {
+        "id": "Q11",
+        "question": "What are the major challenges identified?",
+        "relevant_keywords": ["challenge", "problem"]
+    },
+    {
+        "id": "Q12",
+        "question": "What solutions are proposed?",
+        "relevant_keywords": ["solution", "approach"]
+    },
+    {
+        "id": "Q13",
+        "question": "What responsibilities are assigned?",
+        "relevant_keywords": ["responsibility", "role"]
+    },
+    {
+        "id": "Q14",
+        "question": "What best practices are suggested?",
+        "relevant_keywords": ["best practice", "recommendation"]
+    },
+    {
+        "id": "Q15",
+        "question": "What important definitions are provided?",
+        "relevant_keywords": ["definition", "meaning"]
+    },
+    {
+        "id": "Q16",
+        "question": "What examples are provided?",
+        "relevant_keywords": ["example", "illustration"]
+    },
+    {
+        "id": "Q17",
+        "question": "What benefits are described?",
+        "relevant_keywords": ["benefit", "advantage"]
+    },
+    {
+        "id": "Q18",
+        "question": "What limitations are discussed?",
+        "relevant_keywords": ["limitation", "constraint"]
+    },
+    {
+        "id": "Q19",
+        "question": "What is the conclusion of the document?",
+        "relevant_keywords": ["conclusion", "summary"]
+    },
+    {
+        "id": "Q20",
+        "question": "What are the future recommendations?",
+        "relevant_keywords": ["future", "recommendation", "improvement"]
+    }
+]

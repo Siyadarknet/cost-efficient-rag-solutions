@@ -1,0 +1,52 @@
+# fastapi
+# uvicorn
+# python-dotenv
+# pydantic
+# loguru
+
+# chromadb
+# sentence-transformers
+
+# langchain
+# langchain-community
+# langchain-text-splitters
+
+# pypdf
+# beautifulsoup4
+# markdown
+
+# groq
+
+# numpy
+# pandas
+# scikit-learn
+# tqdm
+
+
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+loguru
+
+chromadb
+sentence-transformers
+torch
+transformers
+
+langchain
+langchain-community
+langchain-text-splitters
+
+pypdf
+beautifulsoup4
+markdown
+python-multipart
+
+groq
+
+numpy
+pandas
+scikit-learn
+tqdm
+requests

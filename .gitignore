@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+
+# Logs
+logs/
+*.log
+
+
+# ChromaDB / Vector Store
+chroma_db/
+vector_db/
+*.sqlite3
+
+# Evaluation Output
+evaluation/results.csv
+evaluation/summary.json
+
+# Uploaded Documents (optional)
+# Uncomment if PDFs are private
+# documents/
+
+
+# Model Cache
+.cache/
+huggingface/
+hf_cache/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+
+# Temporary
+*.tmp
+*.bak
+
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
